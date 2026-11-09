@@ -1,0 +1,7 @@
+--- DNA ANALYSIS REPORT ---
+ORIGINAL DNA: ATGCGTACGTAGC
+TOTAL LENGTH: 13
+Base counts: {'A': 3, 'T': 3, 'G': 4, 'C': 3}
+Most frequent base: G
+GC Content:  53.85% (normal)
+RNA version: AUGCGUACGUAGC
